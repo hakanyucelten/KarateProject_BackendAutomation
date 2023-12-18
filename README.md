@@ -1,5 +1,1 @@
-# KarateProject_BackendAutomation
-KarateProject_BackendAutomation
-
-
-This code testing abilities of given pokemons from poke db.
+This code testing abilities of given pokemons from poke db with Karate framework libraries.
